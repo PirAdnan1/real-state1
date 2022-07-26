@@ -1,0 +1,212 @@
+
+#title{
+  background-color: #003865;
+  font-family: 'Montserrat', sans-serif;
+}
+#second-menue{
+  text-align: center;
+  color: blue;
+  font-family: 'Montserrat', sans-serif;
+}
+.navbar-toggler{
+  color: #fff;
+}
+.brand-img{
+  width: 150px;
+  height: 150px;
+  margin-left: 10%;
+}
+.navbar{
+  margin-left: 14%;
+  margin-top: auto;
+  position: fixed;
+}
+.navbar2{
+  text-align: center;
+  margin-left: 4%;
+  margin-top: auto;
+  height: 100px;
+}
+#headings{
+  text-align: center;
+  width: 60%;
+  margin: auto;
+  background-color: #0078AA;
+  width: 100%;
+  height: 170px;
+  color: #fff;
+}
+.heading-paragraph{
+  width: 45%;
+  margin: auto;
+}
+}
+h1{
+  text-align: center;
+}
+.headings-a{
+  text-decoration: none;
+  color: #E6B325;
+}
+.main-pic{
+  width: 450px;
+  height: 450px;
+  margin-top: 3%;
+  margin-left: 13%;
+}
+.main-h-div{
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.main-pic{
+  margin: 100px 100px 100px 50px;
+  float: left;
+  margin-top: auto;
+  margin-left: 100px;
+}
+.first-h4{
+  font-family: 'Montserrat', sans-serif;
+  color: #0078AA;
+  margin-top: 2%;
+  font-weight: lighter;
+}
+.main-heading-p{
+  margin-top: 2%;
+}
+.second-h{
+  font-weight: bold;
+  font-size: 30px;
+}
+.get-started{
+  margin-top: 2%;
+}
+.highlights{
+  width: 50%;
+  margin: 25% 25%;
+  text-align: center;
+}
+.main-information-h{
+  font-family: 'Montserrat', sans-serif;
+}
+.main-title-h4{
+  color: #0078AA;
+}
+.main-heading-a{
+  color: #E8AA42;
+  text-decoration: none;
+}
+.highlights{
+  width: 50%;
+}
+.buttons{
+  background-color: #B2C8DF;
+  height: 100px;
+  border: 1px solid  #B2C8DF;
+  padding-top: 20px;
+}
+.main-boton{
+  margin-top: 35px;
+}
+.powered-by-a{
+  text-decoration: none;
+  color: #0078AA;
+
+}
+.powered-by-p{
+  margin-top: 10px;
+}
+.descriptipn{
+  background-color: #003865;
+  color: #fff;
+  width: 100%;
+  margin: 0;
+  text-align: left;
+  padding-bottom: 4%;
+}
+.descriptipn-p{
+  width: 90%;
+  padding-left: 7%;
+}
+.descriptipn-h{
+  padding-top: 5%;
+  padding-left: 7%;
+}
+#bottom-section-1{
+  height: 300px;px;
+}
+
+#bottom-section-2{
+  width: 60%;
+  margin: auto;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.unique-coins{
+  width: 70px;
+  height: 70px;
+}
+.managed{
+  width: 70px;
+  height: 70px;
+}
+.llc-owned{
+  width: 70px;
+  height: 70px;
+}
+.payments{
+  width: 70px;
+  height: 70px;
+}
+.tokens-heading{
+  margin-top: 1%;
+  margin-left: 10%;
+  text-align: center;
+}
+#bottom-section-2{
+  width: 80%;
+}
+.bottom-section-2-h2{
+  font-weight: bold;
+  text-align: center;
+  margin-top: 3%;
+}
+.bottom-section-3-h1{
+  font-weight: bold;
+}
+.information{
+  color: #fff;
+  padding-left: 9%;
+  padding-right: 9%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+  background-color: #003865;
+  width: 100%;
+}
+.arrow{
+  width: 90%;
+  height: 150px;
+  margin-left: 5%;
+  margin-top: 3%;
+  margin-bottom: 2%;
+}
+.row2{
+  background-color: #003865;
+  width: 100%;
+  padding-left: 7%;
+  padding-right: 7%;
+  padding-bottom: 4%;
+}
+img{
+  width: 110px;
+  height: 50px;
+  margin: 4%;
+  /*padding-right: 8%;*/
+  margin-right: 20%;
+}
+#main-information{
+  height: 450px;
+}
+hr{
+  width: 100%;
+}
